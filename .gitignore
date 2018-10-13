@@ -1,0 +1,11 @@
+*~
+*.log
+*.swp
+*.Thumbs.db
+.DS_Store
+.htaccess
+.idea
+.less
+.md
+temp/
+node_modules/
